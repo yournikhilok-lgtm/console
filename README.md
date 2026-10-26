@@ -1,5 +1,5 @@
 [README.md](https://github.com/user-attachments/files/33960227/README.md)
-# console# 🛡️ KSHETRA — Tactical Airspace Intelligence & Counter-Drone Defense System
+# 🛡️ KSHETRA — Tactical Airspace Intelligence & Counter-Drone Defense System
 
 > **Next-Generation Autonomous Airspace Surveillance, Kinetic Deconfliction & 3D Threat Telemetry C2 Platform**
 
